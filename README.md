@@ -24,19 +24,19 @@ Accountra is a free, offline-first desktop accounting application that provides 
 
 ### macOS
 
-1. Download the latest release from the [Releases](https://github.com/accountra/accountra/releases) page
+1. Download the latest release from the [Releases](https://github.com/henryjames008/accountra/releases) page
 2. Open the DMG file and drag Accountra to your Applications folder
 3. Open Accountra from your Applications folder
 
 ### Windows
 
-1. Download the latest release from the [Releases](https://github.com/accountra/accountra/releases) page
+1. Download the latest release from the [Releases](https://github.com/henryjames008/accountra/releases) page
 2. Run the installer and follow the on-screen instructions
 3. Open Accountra from your Start menu
 
 ### Linux
 
-1. Download the latest release from the [Releases](https://github.com/accountra/accountra/releases) page
+1. Download the latest release from the [Releases](https://github.com/henryjames008/accountra/releases) page
 2. Extract the AppImage file to your preferred location
 3. Make the AppImage executable (`chmod +x Accountra-x.x.x.AppImage`)
 4. Run the AppImage
@@ -116,7 +116,7 @@ Accountra is built using the following technologies:
 
 ## Contact
 
-Project Link: [https://github.com/accountra/accountra](https://github.com/accountra/accountra)
+Project Link: [https://github.com/henryjames008/accountra](https://github.com/henryjames008/accountra)
 
 ---
 
